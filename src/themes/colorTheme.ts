@@ -11,7 +11,7 @@ export const baseLight: ColorTheme = {
   OPENED: '#cccccc',
   CLOSED: '#333333',
   MAIN: '#0d2538',
-  TEXT: '#ffffff'
+  TEXT: '#ffffff',
 }
 
 export const baseDark: ColorTheme = {
@@ -19,5 +19,5 @@ export const baseDark: ColorTheme = {
   OPENED: '#737475',
   CLOSED: '#737475',
   MAIN: '#efeff4',
-  TEXT: '#000000'
+  TEXT: '#000000',
 }

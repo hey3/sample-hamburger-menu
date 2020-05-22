@@ -2,7 +2,7 @@
 
 Hamburger menu for react application.
 
-![demo](https://user-images.githubusercontent.com/38312611/82629200-f10d6300-9c29-11ea-8bef-c841bef5ba81.gif)
+![demo](https://user-images.githubusercontent.com/38312611/82654203-5299f580-9c5b-11ea-89cb-f5b0681c0d86.gif)
 
 ## Tech Stacks
 
