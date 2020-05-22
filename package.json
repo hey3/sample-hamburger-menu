@@ -16,6 +16,7 @@
   "scripts": {
     "build-storybook": "build-storybook",
     "format": "prettier --write './src/**/*.{ts,tsx,json,js}'",
+    "start": "webpack-dev-server --open",
     "lint": "run-p lint:*",
     "lint:eslint": "eslint 'src/**/*.ts{,x}'",
     "lint:style": "stylelint 'src/**/*.ts{,x}'",
