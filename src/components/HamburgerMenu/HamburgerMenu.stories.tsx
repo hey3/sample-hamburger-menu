@@ -15,7 +15,7 @@ const GlobalStyle = createGlobalStyle`
 
 export default { title: 'Hamburger' }
 
-export const all = () => (
+export const all: React.FC = () => (
   <>
     <Grid container direction="row" justify="space-between" alignItems="center">
       <Switch />
